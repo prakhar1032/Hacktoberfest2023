@@ -11,7 +11,7 @@ Hacktoberfest is an annual celebration of open source software in partnership wi
 2. **Clone Your Fork**: Clone the repository to your local machine using `git clone`.
 
    ```bash
-   git clone https://github.com/prakhar1032/hacktoberfest-2023.git
+   git clone https://github.com/prakhar1032/Hacktoberfest2023.git
 1. **Make Contributions**: Make your contributions to this repository. You can contribute by adding features, fixing bugs, improving documentation, or anything else that benefits the project.
 
 2. **Create Pull Requests**: After making changes, commit them, and create a pull request (PR). Be sure to follow the Hacktoberfest guidelines for valid contributions.
